@@ -6,8 +6,8 @@ import Praveen_Kumar from './World';
 import Contact from './Gmail_LinkedIn_Behance';
 
 const ReadMe = () => (
-     &ltPraveen_Kumar portfolio={ "<a href="https://praveengopi19.github.io" target="_blank" >https://praveengopi19.github.io</a>"}&gt
-          &ltContact links ={[<a href="mailto:praveengopi16@gmail.com" target="_blank" >praveengopi16@gmail.com</a>, <a href="https://www.linkedin.com/in/praveengopi19/" target="_blank">LinkedIn</a>, <a href="https://www.behance.net/praveengopi19" target="_blank" >Behance</a>]} /&gt
+     &ltPraveen_Kumar portfolio={ "<a href="https://praveengopi19.github.io" target="_blank" >https://praveengopi19.github.io</a>" }&gt
+          &ltContact links ={[ "<a href="mailto:praveengopi16@gmail.com" target="_blank" >praveengopi16@gmail.com</a>", "<a href="https://www.linkedin.com/in/praveengopi19/" target="_blank">LinkedIn</a>" , "<a href="https://www.behance.net/praveengopi19" target="_blank" >Behance</a>" ]} /&gt
      &lt/Praveen_Kumar&gt
 );
 
