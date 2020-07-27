@@ -12,8 +12,9 @@ const ReadMe = () => (
 );
 
 export default ReadMe;</pre>
-![](https://komarev.com/ghpvc/?username=praveengopi19)
+
 <!--
+![](https://komarev.com/ghpvc/?username=praveengopi19)
 **praveengopi19/praveengopi19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
